@@ -41,5 +41,6 @@ public class PetClinicApplication {
 	public void MyGitMethodBranch1(){
 		System.out.println("change 3");
 		System.out.println("change 3 one more1");
+		System.out.println("change 3 one more2");
 	}
 }
