@@ -39,6 +39,6 @@ public class PetClinicApplication {
 	}
 
 	public void myGitMethodBranch3(){
-		System.out.println("change 1");
+		System.out.println("change 2");
 	}
 }
