@@ -38,4 +38,7 @@ public class PetClinicApplication {
 		SpringApplication.run(PetClinicApplication.class, args);
 	}
 
+	public void MyGitMethodBranch1(){
+		System.out.println("change 1");
+	}
 }
